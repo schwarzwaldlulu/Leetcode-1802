@@ -98,17 +98,6 @@ public class Leetcode1802 {
     }
     
     public static void main( String[] args ) {
-		long i = (465692470 + 465692472)*3;
-		System.out.println( i );
-		
-		int j = 465692470 + 465692472;
-		j *= 3;
-		System.out.println( j );
-		
-		long k = 465692470 + 465692472;
-		k *= 3;
-		System.out.println( k );
-		
 		
 		long val = maxValue( 6, 2, 931384943 );
 		System.out.println( val );
